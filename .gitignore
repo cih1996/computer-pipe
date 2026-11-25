@@ -1,0 +1,6 @@
+frpc.toml
+*.png
+/in
+/pipe-*
+/computer-pipe-admin.json*
+/admin-state*.json
